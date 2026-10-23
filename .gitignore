@@ -58,3 +58,7 @@ Thumbs.db
 
 # Local Lab 6 datasets
 202618052_Lab_6/data/
+
+# Local Lab 7 dataset and generated figures
+202618052_Lab_7/data/att_faces/s*/
+202618052_Lab_7/figures/
