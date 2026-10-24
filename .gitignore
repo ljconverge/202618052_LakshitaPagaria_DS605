@@ -41,6 +41,7 @@ dist/
 # Notebook and experiment output
 **/results/
 **/plots/
+**/data/
 
 # Logs
 *.log
